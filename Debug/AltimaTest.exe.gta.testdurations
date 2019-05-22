@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Toni\source\repos\Altima\Altima\Debug\AltimaTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="AltimaTest.Cyclic" Duration="11" />
+    <TestDuration Test="AltimaTest.CorrectOutput" Duration="1" />
+    <TestDuration Test="AltimaTest.CyclicRelatives" Duration="15" />
+    <TestDuration Test="AltimaTest.CheckChildParent" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
