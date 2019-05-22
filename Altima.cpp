@@ -36,7 +36,7 @@ set<string> Altima::getParentOnly(vector<Relatives>& vect) {
     if (i == 0) parent.insert(it1->getParent());
   }
   if (parent.size() == 0) {
-    throw "cyclic!";
+    throw "cyclic relationships!";
   }
   return parent;
 }
