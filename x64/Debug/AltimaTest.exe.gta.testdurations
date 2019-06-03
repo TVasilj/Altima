@@ -4,6 +4,6 @@
   <TestDurations>
     <TestDuration Test="AltimaTest.CheckChildParent" Duration="1" />
     <TestDuration Test="AltimaTest.CorrectOutput" Duration="1" />
-    <TestDuration Test="AltimaTest.CyclicRelatives" Duration="13" />
+    <TestDuration Test="AltimaTest.CyclicRelatives" Duration="11" />
   </TestDurations>
 </GtaTestDurations>
